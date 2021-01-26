@@ -1,2 +1,2 @@
 # hunterking.github.io
-Personal website
+A personal website hosted on github.io.
