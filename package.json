@@ -1,0 +1,26 @@
+{
+  "name": "hunterking.github.io",
+  "version": "1.0.0",
+  "description": "Hunter's personal website",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta1",
+    "bootstrap-icons": "^1.3.0"
+  },
+  "devDependencies": {
+    "@popperjs/core": "^2.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hunterking/hunterking.github.io.git"
+  },
+  "author": "Hunter King",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hunterking/hunterking.github.io/issues"
+  },
+  "homepage": "https://github.com/hunterking/hunterking.github.io#readme"
+}
